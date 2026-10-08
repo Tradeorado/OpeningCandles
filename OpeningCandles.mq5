@@ -23,7 +23,7 @@
 #property version     "1.10"
 #property description "Markiert die erste (08-09 Uhr) und zweite (09-10 Uhr) Eröffnungsphase"
 #property description "als farbige Rechtecke im Chart."
-#property description "https://tradeorado.de/indikatoren/"
+#property description "Weitere Indikatoren: https://tradeorado.de/indikatoren/"
 #property indicator_chart_window
 #property indicator_plots 0
 
